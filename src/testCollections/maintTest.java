@@ -27,6 +27,8 @@ public class maintTest {
 
         Set<Entry<Integer, String>> setEntry = testMap.entrySet();
         System.out.println(setEntry.toString());
-        System.out.println(setEntry.);
+
+        // modifier une list avec un iterateur
+
     }
 }
